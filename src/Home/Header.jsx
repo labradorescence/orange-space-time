@@ -6,10 +6,10 @@ export default function Header(props) {
     <header {...props}>
       <a className="logo-wrapper" href="https://antv.alipay.com/zh-cn/index.html" target="_blank">
         <i className="logo" />
-        <span>AntV</span>
+        <span>Orange Time and Space</span>
       </a>
       <div className="button">
-        <Button>返回旧版</Button>
+        <Button>Price</Button>
       </div>
     </header>
   );
